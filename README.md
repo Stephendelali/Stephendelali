@@ -1,67 +1,90 @@
-# Hi there, I'm Stephen Delali Amankwa 👋
+# 👋 Stephen Delali Amankwa
 
-### AWS Certified Cloud Practitioner | Software Developer | AI & Data Science Enthusiast
-
-I am passionate about software engineering, cloud computing, artificial intelligence, and data science. I enjoy building scalable applications, solving real-world problems with technology, and continuously learning new tools and frameworks.
-
-My goal is to develop impactful software solutions while expanding my expertise in cloud technologies, machine learning, and modern web development.
+### Software Engineer | Cloud (AWS) | AI & Data Systems | Backend & Full-Stack Developer
 
 ---
 
-## ☁️ Certifications
+## 🧭 About Me
 
-* AWS Certified Cloud Practitioner
-* AWS re/Start Graduate
-* ALX Artificial Intelligence Career Essentials
+I’m a software engineer focused on building **scalable, reliable, and intelligent systems** using modern web technologies, cloud infrastructure, and data-driven approaches.
+
+I enjoy designing and developing applications that solve real-world problems — especially in **agriculture, automation, and data-centric platforms**.
+
+Currently, I’m deepening my expertise in:
+- Cloud-native application development (AWS)
+- Backend systems and APIs (Django, Python)
+- AI and data-driven applications
+- Full-stack web development (React + Django)
 
 ---
 
-## 💻 Technical Skills
+## ⚙️ Tech Stack
 
-### Programming Languages
+**Languages**  
+`Python` • `JavaScript` • `SQL`
 
-* Python
-* JavaScript
-* SQL
+**Backend & Frameworks**  
+`Django` • `REST APIs`
 
-### Frameworks & Tools
+**Frontend**  
+`React` • `HTML` • `CSS`
 
-* Django
-* React
-* AWS
-* Git & GitHub
-* Microsoft SQL Server
-* MySQL
+**Cloud & DevOps**  
+`AWS (Certified Cloud Practitioner)` • `Git & GitHub`
 
-### Areas of Interest
-
-* Software Engineering
-* Cloud Computing
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Full-Stack Development
+**Databases**  
+`MySQL` • `Microsoft SQL Server`
 
 ---
 
 ## 🚀 Featured Projects
 
-### CropCircle
+### 🌱 CropCircle
+A smart agriculture platform that supports farm management, crop monitoring, and data-driven decision-making for farmers.
 
-A smart agriculture platform designed to support farm management, crop monitoring, and data-driven decision-making for farmers.
-
-### Blog Application
-
-A full-stack blog platform built with Django, featuring user authentication, content management, and responsive user interfaces.
-
-### AgriMage
-
-A Django-based farm management system with dashboards, analytics, crop tracking, and farm activity management.
+> Python • Django • Data-driven system design
 
 ---
 
-## 📫 Connect With Me
+### 📊 AgriMage
+A farm management system with dashboards, analytics, crop tracking, and operational insights for efficient farm administration.
 
-* LinkedIn: [www.linkedin.com/in/stephen-amankwa-71426b275](http://www.linkedin.com/in/stephen-amankwa-71426b275)
+> Django • Analytics Dashboard • Backend Systems
 
-Feel free to explore my projects and connect with me — I’m always open to collaboration.
+---
+
+### ✍️ Blog Platform
+A full-stack blog application featuring authentication, CRUD operations, and responsive UI design.
+
+> Django • Authentication • Full-stack architecture
+
+---
+
+## 🧠 Focus Areas
+
+- Scalable Backend Systems
+- Cloud Architecture (AWS)
+- AI / Machine Learning Applications
+- Data Engineering & Analytics
+- API Design & System Design Fundamentals
+
+---
+
+## 📈 Current Direction
+
+I’m actively improving my skills in:
+- System design for scalable applications
+- Cloud deployment and infrastructure
+- Machine learning integration in web apps
+- Building production-ready full-stack systems
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/stephen-amankwa-71426b275  
+- Open to: collaboration, internships, and software engineering opportunities
+
+---
+
+### ⚡ Building software that is practical, scalable, and impactful.
