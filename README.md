@@ -18,22 +18,22 @@ Currently, I’m deepening my expertise in:
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+**Languages**  
+`Python` • `JavaScript` • `SQL`
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge)
+**Backend & Frameworks**  
+`Django` • `REST APIs`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Frontend**  
+`React` • `HTML` • `CSS`
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Cloud & DevOps**  
+`AWS (Certified Cloud Practitioner)` • `Git & GitHub`
+
+**Databases**  
+`MySQL` • `Microsoft SQL Server`
 
 ---
 
@@ -72,17 +72,18 @@ A full-stack blog application featuring authentication, CRUD operations, and res
 
 ## 📈 Current Direction
 
-- System design for scalable applications  
-- Cloud deployment and infrastructure (AWS)  
-- Machine learning integration in web apps  
-- Production-ready full-stack systems  
+I’m actively improving my skills in:
+- System design for scalable applications
+- Cloud deployment and infrastructure
+- Machine learning integration in web apps
+- Building production-ready full-stack systems
 
 ---
 
 ## 📫 Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/stephen-amankwa-71426b275  
-- Open to: collaboration, internships, and software engineering opportunities  
+- Open to: collaboration, internships, and software engineering opportunities
 
 ---
 
